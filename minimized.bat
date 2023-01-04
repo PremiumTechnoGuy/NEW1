@@ -1,0 +1,1 @@
+start /min autocommit.bat
